@@ -206,3 +206,6 @@ results.csv
 
 # CI test asset cache
 .ultralytics_cache/
+
+!my_data/images/*.jpg
+!my_data/images/*.png
