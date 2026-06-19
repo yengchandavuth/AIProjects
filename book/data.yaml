@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['book']
+
+roboflow:
+  workspace: name-bn42j
+  project: book-csyik
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/name-bn42j/book-csyik/dataset/1

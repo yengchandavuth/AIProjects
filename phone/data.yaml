@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Phones']
+
+roboflow:
+  workspace: thunderboltai
+  project: phone-detection-lsvum
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/thunderboltai/phone-detection-lsvum/dataset/2

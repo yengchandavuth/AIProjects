@@ -1,0 +1,9 @@
+﻿path: C:/BBUClass/Class_Subject/Year4/ML/AIProjects/ultralytics/my_data
+train: images
+val: images
+
+nc: 3
+names:
+  0: pen
+  1: phone
+  2: book
