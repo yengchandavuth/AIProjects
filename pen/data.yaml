@@ -3,7 +3,53 @@ val: ../valid/images
 test: ../test/images
 
 nc: 44
-names: ['Beer', 'Book', 'Bottle', 'Box', 'Calculator', 'Camera', 'Carnivore', 'Clothing', 'Coffee', 'Coffee cup', 'Computer keyboard', 'Computer mouse', 'Cosmetics', 'Desk', 'Dog', 'Drink', 'Fashion accessory', 'Flower', 'Food', 'Furniture', 'Girl', 'Glasses', 'Human face', 'Human hand', 'Jeans', 'Laptop', 'Man', 'Mobile phone', 'Mug', 'Office building', 'Pen', 'Person', 'Plant', 'Rose', 'Saucer', 'Suit', 'Table', 'Tablet computer', 'Tableware', 'Tea', 'Tie', 'Tool', 'Toy', 'Woman']
+names:
+  [
+    "Beer",
+    "Book",
+    "Bottle",
+    "Box",
+    "Calculator",
+    "Camera",
+    "Carnivore",
+    "Clothing",
+    "Coffee",
+    "Coffee cup",
+    "Computer keyboard",
+    "Computer mouse",
+    "Cosmetics",
+    "Desk",
+    "Dog",
+    "Drink",
+    "Fashion accessory",
+    "Flower",
+    "Food",
+    "Furniture",
+    "Girl",
+    "Glasses",
+    "Human face",
+    "Human hand",
+    "Jeans",
+    "Laptop",
+    "Man",
+    "Mobile phone",
+    "Mug",
+    "Office building",
+    "Pen",
+    "Person",
+    "Plant",
+    "Rose",
+    "Saucer",
+    "Suit",
+    "Table",
+    "Tablet computer",
+    "Tableware",
+    "Tea",
+    "Tie",
+    "Tool",
+    "Toy",
+    "Woman",
+  ]
 
 roboflow:
   workspace: cao-xqcfj
